@@ -1,7 +1,7 @@
 package net.mischneider;
 
 import android.app.Activity;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.facebook.react.bridge.WritableMap;
 
